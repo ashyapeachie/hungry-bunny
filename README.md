@@ -1,5 +1,5 @@
 progress update:  
-  level one has a background and collectibles with an easier platform
+  not much progress :(
 to do's:
   polish up level 1
   finish adding 2 other collectibles (?)
