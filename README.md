@@ -1,5 +1,5 @@
 progress update:  
-  not much progress :(
+  no progress & prob won't for a while
 to do's:
   polish up level 1
   finish adding 2 other collectibles (?)
